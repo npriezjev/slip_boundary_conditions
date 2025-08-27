@@ -10,7 +10,7 @@
 •	H. Hu, D. Wang, F. Ren, L. Bao, N. V. Priezjev, J. Wen, “A comparative analysis of the effective and local slip lengths for liquid flows over a trapped nanobubble”, International Journal of Multiphase Flow 104, 166-173 (2018). https://doi.org/10.1016/j.ijmultiphaseflow.2018.03.001
 
 •	slip_high_shear.pdf
-L. Bao, N. V. Priezjev, H. Hu, K. Luo, “The effects of viscous heating and wall-fluid interaction energy on rate-dependent slip behavior of simple fluids”, Physical Review E 96, 033110 (2017). https://doi.org/10.1103/PhysRevE.96.033110
+•	L. Bao, N. V. Priezjev, H. Hu, K. Luo, “The effects of viscous heating and wall-fluid interaction energy on rate-dependent slip behavior of simple fluids”, Physical Review E 96, 033110 (2017). https://doi.org/10.1103/PhysRevE.96.033110
 
 •	two_slip_regimes.pdf
 •	H. Hu, L. Bao, N. V. Priezjev, K. Luo, “Identifying two regimes of slip of simple fluids over smooth surfaces with weak and strong wall-fluid interaction energies”, Journal of Chemical Physics 146, 034701 (2017). https://doi.org/10.1063/1.4973640
